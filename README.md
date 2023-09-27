@@ -61,4 +61,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Secure your application with OTPs using the Excite SMS OTP Flutter app!
 ```
 
-Replace placeholders with your specific project details, such as the repository URL and your API key. This README provides essential information for users to understand how to use your Excite SMS OTP Flutter application. Don't forget to include an actual screenshot (`screenshot.png`) of your app to give users a visual preview.
