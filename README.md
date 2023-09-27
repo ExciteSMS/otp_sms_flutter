@@ -23,7 +23,7 @@ To get started with this application, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/otp-sms-flutter.git
+   git clone https://github.com/ExciteSMS/otp-sms-flutter.git
    cd otp-sms-flutter
 
 2. Open the project in your favorite Flutter development environment.
